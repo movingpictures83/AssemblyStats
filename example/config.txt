@@ -1,0 +1,2 @@
+Prefix plugins/AssemblyStats/example
+Plugin AssemblyStats inputfile . outputfile none
