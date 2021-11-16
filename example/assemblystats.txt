@@ -1,0 +1,7 @@
+filename	total_length	number	mean_length	longest	shortest	N_count	Gaps	N50	N50n	N70	N70n	N90	N90n
+plugins/AssemblyStats/example/./IDBA.fasta	0	0	0.00	0	0	0	0	0	0	0	0	0	0
+plugins/AssemblyStats/example/./MegaHit.fasta	2709	8	338.62	349	324	0	0	337	4	333	6	324	8
+plugins/AssemblyStats/example/./SKESA.fasta	0	0	0.00	0	0	0	0	0	0	0	0	0	0
+plugins/AssemblyStats/example/./spades.fasta	67272	448	150.16	333	128	0	0	135	191	131	292	129	396
+plugins/AssemblyStats/example/./Unicycler.fasta	0	0	0.00	0	0	0	0	0	0	0	0	0	0
+plugins/AssemblyStats/example/./velvet.fasta	46909	260	180.42	331	101	0	0	184	110	168	164	155	222
