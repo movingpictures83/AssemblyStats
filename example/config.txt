@@ -1,2 +1,2 @@
 Prefix plugins/AssemblyStats/example
-Plugin AssemblyStats inputfile . outputfile none
+Plugin AssemblyStats inputfile . outputfile assemblystats.txt
